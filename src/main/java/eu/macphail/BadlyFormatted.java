@@ -2,11 +2,11 @@ package eu.macphail;
 
 public class BadlyFormatted {
 
-    public static void main(String[] args) {
-        System.out.println("hi");
-    }
+	public static void main(String[] args) {
+		System.out.println("hi hi");
+	}
 
-    private String getString() {
-        return "heleloworld";
-    }
+	private String getString() {
+		return "heleloworld";
+	}
 }
